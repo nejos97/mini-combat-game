@@ -24,8 +24,8 @@ if your are *Guerrier* , you can 'Frapper' and you have a capacity to protect yo
 ## Someone play !!! discover
 ![page d'accueil](https://github.com/nejostar/mini-combat-game/blob/master/asset/image/user1.png)
 
-when a *Magien* use her magie agains you , you are disable for more time.
-you can note 'frapper' other personnage
+when a *Magicien* use her magie agains you , you are disable for more time.
+you can not 'frapper' other personnage
 
 ## Personnage who **Ensorceller**
 ![page d'accueil](https://github.com/nejostar/mini-combat-game/blob/master/asset/image/user3.png)
