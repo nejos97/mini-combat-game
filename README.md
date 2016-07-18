@@ -22,4 +22,4 @@ if your a *Magicien* , you can 'Frapper' someone and you can 'Ensorceller'. you 
 if your are *Guerrier* , you can 'Frapper' and you have a capacity to protect yourself 
 
 ## Someone play !!! discover
-![page d'accueil](https://github.com/nejostar/mini-combat-game/blob/master/asset/image/user1.jpg)
+![page d'accueil](https://github.com/nejostar/mini-combat-game/blob/master/asset/image/user1.png)
