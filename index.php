@@ -188,6 +188,8 @@ elseif(isset($_GET['ensorceler']))
 
     <!-- Loading Personal style-->
     <link href="asset/style.css" rel="stylesheet">
+    <!-- Loading the font -->
+    <link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
 
 	<title>Mini-Combat-v1.2.0</title>
 </head>
