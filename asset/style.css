@@ -1,8 +1,9 @@
 body
 {
-	background-image: url("https://github.com/nejostar/mini-combat-game/blob/master/asset/image/background.jpg");
+	background-image: url("http://referentiel.nouvelobs.com/file/6510824.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed ; 
+	background-size:100%;
 	margin-top: 20px;
 	font-family: ms mincho ;
 }
