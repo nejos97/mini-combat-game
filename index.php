@@ -20,7 +20,7 @@ if(isset($_SESSION['person']))
 	$person = $_SESSION['person'] ;
 }
 
-$bd = new PDO('psql:host=ec2-54-243-201-19.compute-1.amazonaws.com;dbname=ddqgq4tble531k', 'engifaniyljarp', 'rOiW_p4wEPnolQfWED7BJ-icUl');
+$bd = new PDO('pgsql:dbname=ddqgq4tble531k;host=ec2-54-243-201-19.compute-1.amazonaws.com;user=engifaniyljarp;password=rOiW_p4wEPnolQfWED7BJ-icUl');
 
 $bd->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING); 
 
