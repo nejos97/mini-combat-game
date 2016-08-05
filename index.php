@@ -346,9 +346,8 @@ elseif(isset($_GET['ensorceler']))
 	?>
 	<div class="col-md-offset-3 col-md-6 ">
 		<div class="well">
-			<p><a href="http://www.github.com/nejostar"><i class="fui-github"></i> @nejostar</a></p>
+			<p><a href="http://www.github.com/nejos95"><i class="fui-github"></i> @nejostar</a></p>
 			<p><a href="http://www.github.com/sdmg15"><i class="fui-github"></i> @sdmg15</a></p>
-			<p><a href="http://www.google.com/plus/jonathannenba"><i class="fui-google-plus"></i> @jonathannenba</a></p>
 			<p><a href="http://www.twitter.com/nejostar"><i class="fui-twitter"></i> @nejostar</a></p>
 			<p><a href="mailto:jonathannenba@gmail.com"><i class="fui-mail"></i> jonathannenba@gmail.com</a></p>
 			<p><a><i class="fui-location"></i> Guider , Cameroun </a> </p>
